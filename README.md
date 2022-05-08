@@ -1,5 +1,5 @@
 # All_In_One_Calculator.loop
-Standard op calculator, % increase/decrease calculator.
+
 Calculates standard mathematical operations and percentage increase and decrease.
 Going to add original amont, find the percentage increase/decrease, and whatever else.
 
